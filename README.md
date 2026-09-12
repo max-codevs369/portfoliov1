@@ -1,16 +1,51 @@
-# React + Vite
+# Portfolio — Gani Gustio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website portofolio pribadi Gani Gustio, seorang Full Stack Developer. Dibangun menggunakan React + Vite dengan Tailwind CSS untuk styling.
 
-Currently, two official plugins are available:
+## Tentang
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Portofolio ini menampilkan profil, keahlian, pengalaman, dan proyek-proyek yang telah dikerjakan, dilengkapi dengan:
 
-## React Compiler
+- **Landing page interaktif** dengan animasi typing terminal dan kartu ID drag-and-drop
+- **Tech stack marquee** menampilkan teknologi yang dikuasai
+- **Timeline perjalanan** pendidikan dan pengalaman kerja
+- **Skill bar** dengan animasi progress
+- **Showcase proyek** lengkap dengan detail dan tautan demo/source code
+- **Form kontak** terintegrasi WhatsApp
+- **Chat global realtime** menggunakan Firebase Firestore
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** React, Vite, Tailwind CSS
+- **Icons:** Lucide React
+- **Realtime Database:** Firebase Firestore
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Menjalankan Proyek
+
+Install dependencies:
+
+```bash
+npm install --legacy-peer-deps
+```
+
+Jalankan development server:
+
+```bash
+npm run dev
+```
+
+Build untuk production:
+
+```bash
+npm run build
+```
+
+## Kontak
+
+- Email: ghani170807@gmail.com
+- Instagram: [@ganzeventeen](https://instagram.com/ganzeventeen)
+- LinkedIn: [Gani Gustio](https://www.linkedin.com/in/ganigustio)
+
+---
+
+© 2026 Gani Gustio. Dibuat dengan React & Tailwind CSS.
