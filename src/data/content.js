@@ -39,7 +39,7 @@ export const SKILLS = [
   { name: "Redis", percent: 75 },
   { name: "Tailwind CSS", percent: 92 },
   { name: "Bootstrap CSS", percent: 90},
-  { name: "Git", percent: 75 },
+  { name: "Git", percent: 95 },
 ];
 
 export const TECH_STACK = [
@@ -54,11 +54,13 @@ export const TECH_STACK = [
   { name: "C++", slug: "cplusplus", color: "#00599C" },
   { name: "Go", slug: "go", color: "#00ADD8" },
   { name: "MySQL", slug: "mysql", color: "#4479A1" },
+  { name: "PostgreSQL", slug: "postgresql", color: "#4169E1" },
   { name: "Redis", slug: "redis", color: "#DC382D" },
   { name: "Tailwind CSS", slug: "tailwindcss", color: "#38BDF8" },
   { name: "Bootstrap", slug: "bootstrap", color: "#7952B3" },
   { name: "Git", slug: "git", color: "#F05032" },
   { name: "GitHub", slug: "github", color: "#181717" },
+  { name: "Docker", slug: "docker", color: "#2496ED" },
   { name: "Postman", slug: "postman", color: "#FF6C37" },
 ];
 
