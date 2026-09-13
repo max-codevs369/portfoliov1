@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect, useMemo } from "react";
-import { Instagram, Linkedin, Mail, MapPin, Download } from "lucide-react";
+import { Instagram, Linkedin, Mail, MapPin, Download, Github } from "lucide-react";
 
 import { NAV_ITEMS, SOCIALS, SKILLS, PROJECTS, SOCIALS as SOC } from "./data/content";
 import { downloadCV } from "./utils/downloadCV";
@@ -228,6 +228,14 @@ export default function App() {
                 className="flex items-center gap-2 rounded-md border border-zinc-800 px-4 py-2.5 text-sm text-zinc-300 hover:border-zinc-600 transition-colors"
               >
                 <Linkedin size={16} /> LinkedIn
+              </a>
+              <a
+                href={SOCIALS.github}
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-center gap-2 rounded-md border border-zinc-800 px-4 py-2.5 text-sm text-zinc-300 hover:border-zinc-600 transition-colors"
+              >
+                <Github size={16} /> Github
               </a>
             </div>
           </div>

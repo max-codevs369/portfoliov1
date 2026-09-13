@@ -13,6 +13,7 @@ export const SOCIALS = {
   instagram: "https://instagram.com/ganzeventeen",
   linkedin: "https://www.linkedin.com/in/gani-gustioa75a393b6",
   email: "ghani170807@gmail.com",
+  github: "https://github.com/max-codevs369",
 };
 
 export const EMAILJS = {
