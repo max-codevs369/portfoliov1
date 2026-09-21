@@ -26,7 +26,7 @@ export const SKILLS = [
   { name: "JavaScript", percent: 85 },
   { name: "TypeScript", percent: 80 },
   { name: "React.js", percent: 85 },
-  { name: "Next.js", percent: 78 },
+  { name: "Next.js", percent: 83 },
   { name: "Node.js", percent: 85 },
   { name: "Laravel", percent: 95 },
   { name: "PHP", percent: 95 },
