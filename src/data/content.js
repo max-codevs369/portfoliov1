@@ -37,7 +37,7 @@ export const SKILLS = [
   { name: "C++", percent: 80},
   { name: "Go", percent: 80 },
   { name: "MySQL", percent: 95 },
-  { name: "Redis", percent: 75 },
+  { name: "Redis", percent: 80 },
   { name: "Tailwind CSS", percent: 92 },
   { name: "Bootstrap CSS", percent: 90},
   { name: "Git", percent: 95 },
